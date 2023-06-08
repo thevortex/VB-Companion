@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "vb_companion:pb_ship",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1867530999,
+    "spacing": 5,
+    "separation": 2,
+    "type": "minecraft:random_spread"
+  }
+}
