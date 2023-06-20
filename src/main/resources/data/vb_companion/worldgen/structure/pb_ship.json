@@ -1,6 +1,6 @@
 {
   "type": "vb_companion:pb_ship",
-  "start_pool": "vb_companion:pb_ship",
+  "start_pool": "vb_companion:pb_ship/start_pool",
   "size": 25,
   "max_distance_from_center": 80,
   "biomes": "#vb_companion:has_structure/pb_ship",
