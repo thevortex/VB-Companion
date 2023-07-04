@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.allthemods.vb_companion.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "vb_companion.refmap.json",
+  "mixins": [
+    "MixinDedicatedServerProperties",
+    "MixinDedicatedServerProperties$MixinWorldGenProperties",
+    "MixinWorldPresets"
+  ],
+  "client": [
+    "MixinCreateWorldScreen"
+  ],
+  "minVersion": "0.8"
+}
