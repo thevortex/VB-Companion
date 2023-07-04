@@ -1,0 +1,15 @@
+{
+  "processors": [
+    {
+      "processor_type": "vb_companion:pipe_rotation",
+      "blocks": [
+        {
+          "Name": "create:fluid_pipe"
+        },
+        {
+          "Name": "mcwbridges:iron_bridge"
+        }
+      ]
+    }
+  ]
+}
