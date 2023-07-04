@@ -1,13 +1,13 @@
 {
-  "name": "vb_companion:pb_crane",
+  "name": "vb_companion:pb_crates",
 
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,
       "element": {
-        "location": "vb_companion:pb_crane",
-        "processors": "vb_companion:pipe",
+        "location": "vb_companion:pb_crates",
+        "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
