@@ -6,7 +6,9 @@
   "mixins": [
     "MixinDedicatedServerProperties",
     "MixinDedicatedServerProperties$MixinWorldGenProperties",
-    "MixinWorldPresets"
+    "MixinWorldPresets",
+    "MixinLavaFluid",
+    "MixinFluidInteractionRegistry"
   ],
   "client": [
     "MixinCreateWorldScreen"
